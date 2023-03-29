@@ -22,8 +22,9 @@ wa-automate-nodejs
  
   npm run start
 
-# Contato
+# Contato:
 
   Caso queira entrar em contato comigo, tanto para solicitar algum serviço ou sanar suas dúvidas, não hesite:
   Discord: @xSpeed#5812
   Comunidade: https://discord.gg/sXN7vmMj
+
