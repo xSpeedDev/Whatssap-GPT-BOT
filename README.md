@@ -14,11 +14,11 @@ wa-automate-nodejs
  entre na pasta do projeto do repositório 
  Vá para o .env.example e renomeie-o para .env e altere o OPENAI_API_KEY para sua chave de API GPT de bate-papo 
  
-# Agora, instale as dependências 
+ ``Agora, instale as dependências ``
  
   npm install 
  
-# Execute o BOT e digitalize o QR Code 
+ ``Execute o BOT e digitalize o QR Code``
  
   npm run start
 
